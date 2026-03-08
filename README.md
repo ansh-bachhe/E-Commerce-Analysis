@@ -98,7 +98,8 @@ It contains information about:
 ![Revenue Dashboard](images/revenue_dashboard.png)
 
 ### Customer Behavior & Delivery Performance
-![Customer Dashboard](images/customer_dashboard.png)
+![Customer Dashboard](Customer%20Dashboard/customer_dashboard.png)
+
 
 
 ---
