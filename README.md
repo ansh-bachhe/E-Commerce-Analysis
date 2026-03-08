@@ -95,7 +95,7 @@ It contains information about:
 ## 📊 Dashboard Preview
 
 ### Revenue Analysis
-![Revenue Dashboard](images/revenue_dashboard.png)
+![Revenue Dashboard](Customer%20Dashboard/revenue_dashboard.png)
 
 ### Customer Behavior & Delivery Performance
 ![Customer Dashboard](Customer%20Dashboard/customer_dashboard.png)
